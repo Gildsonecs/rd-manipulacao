@@ -16,7 +16,8 @@
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5173",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "YOUTUBE_API_KEY": "AIzaSyDnOiwEWMjqquh9HC6ycM96Uwcgof3Nkrs"
       }
     },
     "https": {
@@ -26,7 +27,8 @@
       "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7126;http://localhost:5173",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "YOUTUBE_API_KEY": "AIzaSyDnOiwEWMjqquh9HC6ycM96Uwcgof3Nkrs"
       }
     },
     "IIS Express": {
@@ -34,7 +36,8 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "YOUTUBE_API_KEY": "AIzaSyDnOiwEWMjqquh9HC6ycM96Uwcgof3Nkrs"
       }
     }
   }
